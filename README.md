@@ -1,1 +1,2 @@
-# PythonAlgorythms
+# PythonAlgorithms
+Created by EdvardOlsen
